@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7705451258",
+    "project_id": "alz-jaime-94dbf",
+    "storage_bucket": "alz-jaime-94dbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7705451258:android:1cf45469ab2ab4f3e88743",
+        "android_client_info": {
+          "package_name": "com.example.alz_jaime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7705451258-d7nf4q4qj9hqke7uv3qlagurlk2308ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcsfxTQYDMuTeYLaUCz8KeelIRR9TjDX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7705451258-d7nf4q4qj9hqke7uv3qlagurlk2308ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
